@@ -28,4 +28,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce deği�
 ## License
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
+![Windows_Bug](https://user-images.githubusercontent.com/109830698/180623558-67568016-199a-484b-8a42-4eef1eec9e05.PNG)
 

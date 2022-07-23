@@ -1,0 +1,2 @@
+# kodluyoruzrepo
+ İlk repo ödev
